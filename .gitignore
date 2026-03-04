@@ -13,3 +13,4 @@ archive (1)/
 archive/
 data/
 *.csv
+.DS_Store
